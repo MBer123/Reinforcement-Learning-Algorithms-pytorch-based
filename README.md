@@ -1,6 +1,6 @@
 # 基于PyTorch的强化学习算法集合
 
-这个项目集合了多种基于PyTorch实现的强化学习算法，旨在为研究人员和开发者提供一个易于使用、高效的强化学习算法库。支持的算法包括但不限于PPO, SAC, DDQN, Dueling DQN, DDPG, TD3, REINFORCE, SARSA, D3QN, A2C, 和DQN。每个算法都配有在LunarLander-v2和LunarLanderContinuous-v2环境下预训练的模型，后者仅适用于能够处理连续动作空间的算法。
+集合多种基于PyTorch实现的强化学习算法。支持的算法包括但不限于PPO, SAC, DDQN, Dueling DQN, DDPG, TD3, REINFORCE, SARSA, D3QN, A2C, 和DQN。每个算法都配有在LunarLander-v2和LunarLanderContinuous-v2环境下预训练的模型。
 
 ## 目录结构
 
